@@ -39,10 +39,6 @@ The output will be
 
   cello doily
 
-  cello foals
-
-  cello foils
-
   ...
 
   hello toils
